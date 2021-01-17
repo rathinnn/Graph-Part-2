@@ -1,4 +1,4 @@
-# Graph DS JAVA Part 1
+# Graph DS JAVA Part 2
 
 ## Weighted Graph
 
